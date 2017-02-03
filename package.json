@@ -1,6 +1,6 @@
 {
   "name": "@local/starwars-names",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-development",
   "description": "Get random Star wars names",
   "main": "src/index.js",
   "scripts": {
@@ -38,6 +38,6 @@
     "path": "node_modules/cz-conventional-changelog"
   },
   "release": {
-    "verifyConditions": { }
+    "verifyConditions": []
   }
 }
